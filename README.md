@@ -71,8 +71,8 @@ Clone the Repository
 
 * In the first cell of the Colab notebook, run the following command to clone the project repository:
 
-`!git clone https://github.com/your-repo/SkinCancerPrediction.git
-%cd SkinCancerPrediction `
+`!git clone https://github.com/IzzyDevOps/Skin-Cancer-Prediction`
+`%cd SkinCancerPrediction `
 
 3. Install Dependencies 
 
