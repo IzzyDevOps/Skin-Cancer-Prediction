@@ -109,4 +109,4 @@ drive.mount('/content/drive')`
 
 
 ## Conclusion
-Our research demonstrates that enhancing the CNN model significantly increases the prediction accuracy for skin cancer. The improved model offers promising advancements in dermatological diagnosis, potentially leading to earlier detection and better patient outcomes.
+My research demonstrates that enhancing the CNN model significantly increases the prediction accuracy for skin cancer. The improved model offers promising advancements in dermatological diagnosis, potentially leading to earlier detection and better patient outcomes.
